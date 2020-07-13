@@ -2,7 +2,9 @@
 
 Repository for all projects and courses at ESPM
 
-## Lectures on Machine Learning
+## Machine Learning
+
+[2020.2](https://hsandmann.github.io/espm.ml.2020.2/)
 
 [2020.1](https://hsandmann.github.io/espm.ml.2020.1/)
 
@@ -10,8 +12,16 @@ Repository for all projects and courses at ESPM
 
 [2019.1](https://hsandmann.github.io/espm.ml.2019.1/)
 
-## Lectures on Artificial Intelligence and Society
+## Artificial Intelligence and Society
+
+[2020.2](https://hsandmann.github.io/espm.ai.society.2020.2/)
 
 [2020.1](https://hsandmann.github.io/espm.ai.society.2020.1/)
 
 [2019.2](https://hsandmann.github.io/espm.ai.society.2019.2/)
+
+## Computer Architecture and Organization
+
+[ESPM 16Bits - Assembly Simulator](https://hsandmann.github.io/espm.16bits/)
+
+## Discrete Mathematics
