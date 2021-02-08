@@ -11,6 +11,7 @@ Repository for all projects and courses at ESPM
 
 ## Artificial Intelligence and Society
 
+[2021.1](https://hsandmann.github.io/espm.ai.society.2021.1/) | 
 [2020.2](https://hsandmann.github.io/espm.ai.society.2020.2/) | 
 [2020.1](https://hsandmann.github.io/espm.ai.society.2020.1/) | 
 [2019.2](https://hsandmann.github.io/espm.ai.society.2019.2/)
