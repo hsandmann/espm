@@ -22,5 +22,7 @@ Repository for all projects and courses at ESPM
 
 ## Discrete Mathematics
 
+[Lecture Material](https://colab.research.google.com/drive/1S1Ftle1GDEMaelb1jNRQpg-nZvRq24Z8?usp=sharing)
+
 ## Oriented Object Programming
 [2023.1](https://hsandmann.github.io/espm.poo.2023.1/)
