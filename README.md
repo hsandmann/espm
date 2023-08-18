@@ -26,3 +26,6 @@ Repository for all projects and courses at ESPM
 
 ## Oriented Object Programming
 [2023.1](https://hsandmann.github.io/espm.poo.2023.1/)
+
+## Statistics
+[2023.2](./estatistica/2023/2/index.md)
