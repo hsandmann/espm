@@ -28,4 +28,5 @@ Repository for all projects and courses at ESPM
 [2023.1](https://hsandmann.github.io/espm.poo.2023.1/)
 
 ## Statistics
+[Lecture notes](https://colab.research.google.com/drive/1nchrs0q1imXJnWsVdOtMIym2GbmLDEOr?usp=sharing)
 [2023.2](./estatistica/2023/2/index.md)
